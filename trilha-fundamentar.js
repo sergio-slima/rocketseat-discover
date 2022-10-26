@@ -1,9 +1,7 @@
 
-## Guia Estelar JavaScript
+////// Guia Estelar JavaScript
 
-
-
-### Fluxo de caixa familiar
+// Fluxo de caixa familiar
 
 let family = {
   entradas: [2500, 350, 45.55, 87.44, 322],
@@ -36,3 +34,4 @@ function calculaCaixa() {
 }
 
 calculaCaixa()
+
