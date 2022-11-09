@@ -17,7 +17,7 @@ Aprendendo no Discover da Rocketseat
 <br>
 
 <p align="center">
-  <img alt="Logo da Rocketseat" src="https://avatars.githubusercontent.com/u/28929274?v=4" width="30%">
+  <img alt="Logo da Rocketseat" src="https://avatars.githubusercontent.com/u/28929274?v=4" width="10%">
 </p>
 
 ## 🚀 Tecnologias
